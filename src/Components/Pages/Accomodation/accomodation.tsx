@@ -16,7 +16,7 @@ export default function Accomodation({}: Props) {
             <li className='bg-gray-800 text-white'>
               <div className='flex flex-row items-center justify-center w-full hover:p-8 transition-all duration-[1.5s]'> 
                 <Image
-                  src='/assets/hotelsImg/In2.png'
+                  src='/assets/hotelsImg/in2.png'
                   alt=''
                   width={3840}
                   height={2160}
